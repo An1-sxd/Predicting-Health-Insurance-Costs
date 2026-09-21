@@ -129,4 +129,4 @@ The FastAPI server must be running on port `8000` for predictions from the React
 
 ## Tech Stack
 
-Python · Pandas · NumPy · Scikit-learn · FastAPI · Pydantic · Joblib · Streamlit · React · Vite
+Python · Pandas · NumPy · Scikit-learn · FastAPI · Pydantic · Joblib · React · Vite
