@@ -18,6 +18,7 @@ The dataset is included in this project for training and local testing.
 - Numerical preprocessing with mean imputation and `StandardScaler`
 - Categorical preprocessing with most-frequent imputation and `OneHotEncoder`
 - Combined preprocessing using `ColumnTransformer`
+- Model training using Linear Regression, Polynomial Features Regression and Random Forest Regression
 - Random Forest regression inside a Scikit-learn `Pipeline`
 - Hyperparameter tuning with `RandomizedSearchCV`
 - Model saved with Joblib
