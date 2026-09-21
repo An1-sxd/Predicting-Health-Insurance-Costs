@@ -1,6 +1,6 @@
 # Predicting Health Insurance Costs
 
-Machine learning project for predicting health insurance claims, with a **FastAPI REST API**, a **Streamlit interface**, and a **React frontend**.
+Machine learning project for predicting health insurance claims, with a **FastAPI REST API** and a **React frontend**.
 
 ## Dataset
 
